@@ -1,0 +1,2 @@
+para rodar a aplicação, via console, execute:
+mvn clean compile exec:java
